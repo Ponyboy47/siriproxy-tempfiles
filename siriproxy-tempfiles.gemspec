@@ -3,12 +3,12 @@ $:.push File.expand_path("../lib", __FILE__)
 
 Gem::Specification.new do |s|
   s.name        = "siriproxy-tempfiles"
-  s.version     = "0.1.0b1" 
+  s.version     = "1.0.0" 
   s.authors     = ["Ponyboy47"]
   s.email       = [""]
   s.homepage    = ""
-  s.summary     = %q{Plugin for testing writing to temporary files}
-  s.description = %q{Trying to mae it so siri remembers things}
+  s.summary     = %q{A SiriProxy plugin test plugin to write and read files}
+  s.description = %q{Trying to see if I can have Siri remember and use items from a file}
 
   s.rubyforge_project = "siriproxy-tempfiles"
 
